@@ -23,6 +23,7 @@ JSON, or OpenStep format.*
 
 ## Features
 
+
 The project provides an interface to read and write plist files in binary,
 XML, JSON, or OpenStep format alongside a command-line utility named `plistutil`.
 
